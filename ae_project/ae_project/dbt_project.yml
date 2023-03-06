@@ -38,3 +38,9 @@ models:
       +materialized: table
       +enabled: true
       +schema: stg_northwind
+    warehouse:
+      +materialized: table
+      +enabled: true
+      +schema: dwh_northwind
+      dim_date:
+        +materialized: view
