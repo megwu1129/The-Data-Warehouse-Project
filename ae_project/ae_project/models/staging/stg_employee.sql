@@ -2,4 +2,7 @@ WITH source AS (
     SELECT * FROM `ae-bootcamp-379604.dl_northwind.employees`
 )
 
-SELECT * FROM source
+SELECT
+    *
+    , CURRENT_TIMESTAMP() AS ingestion_timestamp
+FROM source
