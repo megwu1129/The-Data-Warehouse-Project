@@ -1,7 +1,7 @@
 
 ## Overview
 
-The objective of this project is to build a dimensional data warehouse from scratch using dbt and BigQuery. To identify the key business processes and requirements, and provide a single source of truth for decision-making, enabling business stakeholders or users to easily analyze and explore data.
+The objective of this project is to build a dimensional data warehouse from scratch using dbt and BigQuery. To identify the key business processes and requirements and enable business stakeholders or users to easily analyze and explore data.
 
 ## Data Source
 
