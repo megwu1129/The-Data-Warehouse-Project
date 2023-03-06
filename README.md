@@ -5,7 +5,7 @@ The objective of this project is to build a dimensional data warehouse from scra
 
 ## Data Source
 
-The data source of this project is Northwind database, which contains the sales data for a fictitious company called “Northwind Traders" that imports and exports specialty food items from around the world. The dataset includes 14 tables such as data for Customers, Employees, Products, Orders, Shippers, Suppliers, and a few more. I used this dataset to create 
+The data source of this project is Northwind database, which contains the sales data for a fictitious company called “Northwind Traders" that imports and exports specialty food items from around the world. The dataset includes 14 tables such as data for Customers, Employees, Products, Orders, Shippers, Suppliers, and a few more.
 
 ## Use-Case
 The current architecture of Northwind Traders is a mix of on-premise and legacy systems, and their primary operational database is a MySQL database, which is also being used to generate reports and build analytics solutions. They are struggling to keep up with reporting requirements and the database tends to slow down frequently, impacting their day-to-day business. They want to modernize their data and reporting solutions. Specifically, they want to modernize their existing infrastructure for below:
